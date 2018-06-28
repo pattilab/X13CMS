@@ -6,7 +6,9 @@ Xiaojing Huang, Ying-Jr Chen, Kevin Cho, Igor Nikolskiy, Peter A. Crawford, and 
 DOI: <a href="http://dx.doi.org/10.1021/ac403384n">10.1021/ac403384n</a>
 
 Analytical Chemistry. 2014
+
 ------------------------------------------------------------------------------------------------------------------------------------
+
 ## X13CMS 1.4
 Installation
 ````
@@ -19,7 +21,10 @@ library(X13CMS)
 
 Example Files can be downloaded <a href="http://pattilab.wustl.edu/download/Example.zip">here</a>
 
-Changes to v1.4:
+------------------------------------------------------------------------------------------------------------------------------------
+
+## Updates
++ __Changes to v1.4:__
 
 - getIsoLabelReport()
 1) Default intChoice set to “intb”; was previously “maxo”.
@@ -49,7 +54,7 @@ Changes to v1.4:
 - filterIsoDiffReport()
 1) Removed is13C filter
 
-Changes to v1.3:
++ __Changes to v1.3:__
 
 - getIsoLabelReport():
 1) Minor changes to retention time grouping for identifying potential isotopologues
