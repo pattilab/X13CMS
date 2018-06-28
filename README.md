@@ -2,7 +2,9 @@
 "X13CMS: Global Tracking of Isotopic Labels in Untargeted Metabolomics"
 
 Xiaojing Huang, Ying-Jr Chen, Kevin Cho, Igor Nikolskiy, Peter A. Crawford, and Gary J. Patti
+
 DOI: <a href="http://dx.doi.org/10.1021/ac403384n">10.1021/ac403384n</a>
+
 Analytical Chemistry. 2014
 ------------------------------------------------------------------------------------------------------------------------------------
 ## X13CMS 1.4
